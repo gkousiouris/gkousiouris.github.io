@@ -19,8 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor at the Department of Informatics and Telematics of the Harokopio University of Athens. I received my Dipl. Eng. in Electrical and Computer Engineering from the University of Patras, Greece in 2005 and my Ph.D. in Cloud Computing at the Telecommunications Laboratory of the Dept. of Electrical and Computer Engineering of the National Technical University of Athens in 2012. Since the beginning of my research career, i have participated in a number of EU funded projects such as HE Humaine (as PI), H2020 PHYSICS (as PI), H2020 BigDataStack, H2020 CloudPerfect (as lead architect and technical coordinator), H2020 SLALOM, FP7 COSMOS (as lead architect and technical coordinator), FP7 ARTIST (as WP leader), FP7 OPTIMIS (as WP leader), FP7 IRMOS and national projects. My research interests are around Cloud platforms and architectures, Cloud services evaluation and benchmarking, Cloud applications design, Service Level Agreements, IoT platforms, Performance engineering and estimation.
+
+For more information regarding my publications you can visit the according profile pages in [Google Scholar](https://scholar.google.com/citations?user=LdX7y48AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/82/5108.html).
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
