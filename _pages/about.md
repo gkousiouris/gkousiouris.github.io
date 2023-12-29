@@ -23,5 +23,5 @@ I am an Assistant Professor at the Department of Informatics and Telematics of t
 
 For more information regarding my publications you can visit the according profile pages in [Google Scholar](https://scholar.google.com/citations?user=LdX7y48AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/82/5108.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
 
