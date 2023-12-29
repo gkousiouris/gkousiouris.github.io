@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Office 3.5</p>
+    <p>Office 3.5</p>
     <p>123 9 Omirou Str.</p>
     <p>Tavros, Athens, Greece</p>
 
